@@ -1,1 +1,2 @@
-this file contains employee informatiom
+this file contains employee information
+details uploded
